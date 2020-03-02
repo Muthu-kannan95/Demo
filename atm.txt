@@ -3,3 +3,8 @@ cash withdraw
 cash deposit
 pin change
 balance checking
+
+mobile recharge
+fixed deposit
+current account
+mini statement
