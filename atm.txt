@@ -1,3 +1,5 @@
 Welcomew to ATM
 cash withdraw
 cash deposit
+pin change
+balance checking
